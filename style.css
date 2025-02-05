@@ -1,3 +1,8 @@
-.product-image {
-    width: 500px
+body {
+    background-color: #fafafa;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
 }
